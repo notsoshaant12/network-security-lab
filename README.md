@@ -1,4 +1,4 @@
-# 🛡️ Network Security Lab Setup
+# Network Security Lab Setup
 A beginner-friendly virtual lab to simulate network security, firewall configuration, and traffic control using pfSense, Ubuntu Server, and Kali Linux. Built using VirtualBox with a custom internal network.
 
 # 📌 Project Summary
@@ -62,4 +62,5 @@ Understood rule ordering and pfSense logging
 
 Gained hands-on experience in routing, port filtering, and basic web hosting
 
-Prashant Jha | B.Tech CSE | KIIT
+# Author
+Prashant Jha | B.Tech CSE | Kalinga Institute of Industrial Technology (KIIT)
